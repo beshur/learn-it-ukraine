@@ -14,9 +14,13 @@ http://dou.ua/forums/topic/10590/
 
 https://www.codecademy.com/
 
+https://www.khanacademy.org/computing/computer-programming
+
+http://www.learn-js.org/
+
 
 ## Курсы
-http://ain.ua/2015/07/09/590915
+http://itlabs.net.ua/courses/modern-front-end-development/
 
 http://kottans.org/
 
@@ -26,4 +30,5 @@ http://softserve.ua/university/it-academy/
 
 http://globallogic.com.ua/careers/#gl-base-camp
 
-
+## Связанные статьи
+http://ain.ua/2015/07/09/590915
