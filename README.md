@@ -18,6 +18,8 @@ https://www.khanacademy.org/computing/computer-programming
 
 http://www.learn-js.org/
 
+https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+
 
 ## Курсы
 http://itlabs.net.ua/courses/modern-front-end-development/
