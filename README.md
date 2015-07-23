@@ -39,6 +39,11 @@ https://www.codingame.com/
 ## Книги
 http://dou.ua/lenta/articles/top-books-2015/?from=doufp
 
+## Справочники
+https://developer.mozilla.org/ru/
+
+https://msdn.microsoft.com/en-us/library/
+
 ## Курсы
 http://itlabs.net.ua/courses/modern-front-end-development/ (Киев)
 
