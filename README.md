@@ -20,6 +20,12 @@ http://www.learn-js.org/
 
 https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 
+https://www.codeschool.com/
+
+https://teamtreehouse.com/
+
+## Книги
+http://dou.ua/lenta/articles/top-books-2015/?from=doufp
 
 ## Курсы
 http://itlabs.net.ua/courses/modern-front-end-development/
