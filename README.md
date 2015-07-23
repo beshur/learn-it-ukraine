@@ -24,19 +24,33 @@ https://www.codeschool.com/
 
 https://teamtreehouse.com/
 
+https://www.udacity.com/
+
+http://www.microsoftvirtualacademy.com/
+
+http://javarush.ru/
+
+## Соревнования и игры
+http://www.codewars.com/
+
+https://www.codingame.com/
+
+
 ## Книги
 http://dou.ua/lenta/articles/top-books-2015/?from=doufp
 
 ## Курсы
-http://itlabs.net.ua/courses/modern-front-end-development/
+http://itlabs.net.ua/courses/modern-front-end-development/ (Киев)
 
-http://kottans.org/
+http://kottans.org/ (Киев)
 
-http://prog.kiev.ua/
+http://prog.kiev.ua/ (Киев)
 
-http://softserve.ua/university/it-academy/
+http://softserve.ua/university/it-academy/ (Киев)
 
-http://globallogic.com.ua/careers/#gl-base-camp
+http://globallogic.com.ua/careers/#gl-base-camp (Киев)
+
+http://www.fabrika.od.ua/ (Одесса)
 
 ## Связанные статьи
 http://ain.ua/2015/07/09/590915
