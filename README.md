@@ -52,5 +52,7 @@ http://globallogic.com.ua/careers/#gl-base-camp (Киев)
 
 http://www.fabrika.od.ua/ (Одесса)
 
+http://academy.beetroot.se/ (Полтава)
+
 ## Связанные статьи
 http://ain.ua/2015/07/09/590915
