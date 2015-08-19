@@ -67,5 +67,10 @@ http://www.fabrika.od.ua/ (Одесса)
 
 http://academy.beetroot.se/ (Полтава)
 
+## Мероприятия
+http://ain.ua/events
+
+http://dou.ua/calendar/
+
 ## Связанные статьи
 http://ain.ua/2015/07/09/590915
