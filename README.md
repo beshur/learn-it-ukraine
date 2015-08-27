@@ -41,10 +41,24 @@ http://www.microsoftvirtualacademy.com/
 
 http://javarush.ru/
 
+http://www.programmr.com/
+
+http://www.freecodecamp.com/
+
+https://www.dashingd3js.com/
+
+https://www.coursera.org/
+
+https://university.mongodb.com/
+
+http://www.w3schools.com/
+
 ## Соревнования и игры
 http://www.codewars.com/
 
 https://www.codingame.com/
+
+https://codefights.com/
 
 
 ## Книги
@@ -54,6 +68,10 @@ http://dou.ua/lenta/articles/top-books-2015/?from=doufp
 https://developer.mozilla.org/ru/
 
 https://msdn.microsoft.com/en-us/library/
+
+http://bigocheatsheet.com/
+
+http://visualgo.net/
 
 ## Курсы
 http://itlabs.net.ua/courses/modern-front-end-development/ (Киев)
@@ -65,6 +83,8 @@ http://prog.kiev.ua/ (Киев)
 http://softserve.ua/university/it-academy/ (Киев)
 
 http://globallogic.com.ua/careers/#gl-base-camp (Киев)
+
+http://www.epam-group.ru/career/trainings/ukraine/kiev.html (Киев)
 
 http://www.fabrika.od.ua/ (Одесса)
 
