@@ -12,11 +12,14 @@ __Начните!__
 
 
 ## Общая информация
-http://dou.ua/forums/learning/
+[ДОУ: Раздел «Обучение»](http://dou.ua/forums/learning/)
 
-http://www.open-it.org.ua/how-to-join-it/
+[ДОУ: Топик для поиска курсов](http://dou.ua/forums/topic/10590/)
 
-http://dou.ua/forums/topic/10590/
+[ДОУ: Топик для поиска менторов](http://dou.ua/forums/topic/10445/)
+
+[BrainBasket: Як стати айтішником?](http://www.open-it.org.ua/how-to-join-it/)
+
 
 ## Онлайн-обучалки и учебники
 
