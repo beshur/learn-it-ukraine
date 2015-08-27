@@ -60,6 +60,7 @@ https://www.codingame.com/
 
 https://codefights.com/
 
+http://www.checkio.org/
 
 ## Книги
 http://dou.ua/lenta/articles/top-books-2015/?from=doufp
