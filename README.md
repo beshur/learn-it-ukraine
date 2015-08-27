@@ -74,6 +74,8 @@ http://bigocheatsheet.com/
 
 http://visualgo.net/
 
+http://css-live.ru/
+
 ## Курсы
 http://itlabs.net.ua/courses/modern-front-end-development/ (Киев)
 
