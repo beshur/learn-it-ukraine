@@ -76,6 +76,10 @@ http://visualgo.net/
 
 http://css-live.ru/
 
+http://learn.javascript.ru/
+
+http://sql-ex.ru/
+
 ## Курсы
 http://itlabs.net.ua/courses/modern-front-end-development/ (Киев)
 
