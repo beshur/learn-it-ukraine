@@ -117,6 +117,8 @@ http://globallogic.com.ua/careers/#gl-base-camp (Киев)
 
 http://www.epam-group.ru/career/trainings/ukraine/kiev.html (Киев)
 
+http://lits.com.ua/ (Львов)
+
 http://www.fabrika.od.ua/ (Одесса)
 
 http://academy.beetroot.se/ (Полтава)
