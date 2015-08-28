@@ -20,6 +20,8 @@ __Начните!__
 
 [BrainBasket: Як стати айтішником?](http://www.open-it.org.ua/how-to-join-it/)
 
+[Агрегатор всего что может быть связано с разработкой](http://wwwhere.io/)
+
 
 ## Онлайн-обучалки и учебники
 
@@ -53,6 +55,16 @@ https://university.mongodb.com/
 
 http://www.w3schools.com/
 
+http://githowto.com/
+
+http://learn.shayhowe.com/
+
+http://www.sql-ex.ru/
+
+http://www.tutorialspoint.com/
+
+http://www.learnpython.org/
+
 ## Соревнования и игры
 http://www.codewars.com/
 
@@ -64,6 +76,14 @@ http://www.checkio.org/
 
 ## Книги
 http://dou.ua/lenta/articles/top-books-2015/?from=doufp
+
+http://it-ebooks.info/
+
+Git книги: http://git-scm.com [en](http://git-scm.com/book/en/v2), [ru](http://git-scm.com/book/ru/v1); [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html)
+
+https://refactoring.guru/
+
+[Много бесплатных книг по программированию](http://habrahabr.ru/post/191312/)
 
 ## Справочники
 https://developer.mozilla.org/ru/
