@@ -12,11 +12,16 @@ __Начните!__
 
 
 ## Общая информация
-http://dou.ua/forums/learning/
+[ДОУ: Раздел «Обучение»](http://dou.ua/forums/learning/)
 
-http://www.open-it.org.ua/how-to-join-it/
+[ДОУ: Топик для поиска курсов](http://dou.ua/forums/topic/10590/)
 
-http://dou.ua/forums/topic/10590/
+[ДОУ: Топик для поиска менторов](http://dou.ua/forums/topic/10445/)
+
+[BrainBasket: Як стати айтішником?](http://www.open-it.org.ua/how-to-join-it/)
+
+[Агрегатор всего что может быть связано с разработкой](http://wwwhere.io/)
+
 
 ## Онлайн-обучалки и учебники
 
@@ -38,19 +43,64 @@ http://www.microsoftvirtualacademy.com/
 
 http://javarush.ru/
 
+http://www.programmr.com/
+
+http://www.freecodecamp.com/
+
+https://www.dashingd3js.com/
+
+https://www.coursera.org/
+
+https://university.mongodb.com/
+
+http://www.w3schools.com/
+
+http://githowto.com/
+
+http://learn.shayhowe.com/
+
+http://www.tutorialspoint.com/
+
+http://www.learnpython.org/
+
 ## Соревнования и игры
 http://www.codewars.com/
 
 https://www.codingame.com/
 
+https://codefights.com/
+
+http://www.checkio.org/
+
+http://tympanus.net/codrops/category/tutorials/
 
 ## Книги
 http://dou.ua/lenta/articles/top-books-2015/?from=doufp
+
+http://it-ebooks.info/
+
+Git книги: http://git-scm.com [en](http://git-scm.com/book/en/v2), [ru](http://git-scm.com/book/ru/v1); [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html)
+
+https://refactoring.guru/
+
+[Много бесплатных книг по программированию](http://habrahabr.ru/post/191312/)
 
 ## Справочники
 https://developer.mozilla.org/ru/
 
 https://msdn.microsoft.com/en-us/library/
+
+http://bigocheatsheet.com/
+
+http://visualgo.net/
+
+http://css-live.ru/
+
+https://css-tricks.com/almanac/
+
+http://learn.javascript.ru/
+
+http://sql-ex.ru/
 
 ## Курсы
 http://itlabs.net.ua/courses/modern-front-end-development/ (Киев)
@@ -62,6 +112,8 @@ http://prog.kiev.ua/ (Киев)
 http://softserve.ua/university/it-academy/ (Киев)
 
 http://globallogic.com.ua/careers/#gl-base-camp (Киев)
+
+http://www.epam-group.ru/career/trainings/ukraine/kiev.html (Киев)
 
 http://www.fabrika.od.ua/ (Одесса)
 
