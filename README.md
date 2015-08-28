@@ -63,6 +63,8 @@ http://www.tutorialspoint.com/
 
 http://www.learnpython.org/
 
+https://www.interviewbit.com/
+
 ## Соревнования и игры
 http://www.codewars.com/
 
