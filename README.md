@@ -59,8 +59,6 @@ http://githowto.com/
 
 http://learn.shayhowe.com/
 
-http://www.sql-ex.ru/
-
 http://www.tutorialspoint.com/
 
 http://www.learnpython.org/
