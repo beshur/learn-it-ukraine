@@ -72,6 +72,8 @@ https://codefights.com/
 
 http://www.checkio.org/
 
+http://tympanus.net/codrops/category/tutorials/
+
 ## Книги
 http://dou.ua/lenta/articles/top-books-2015/?from=doufp
 
@@ -93,6 +95,8 @@ http://bigocheatsheet.com/
 http://visualgo.net/
 
 http://css-live.ru/
+
+https://css-tricks.com/almanac/
 
 http://learn.javascript.ru/
 
