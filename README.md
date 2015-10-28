@@ -132,3 +132,5 @@ http://dou.ua/calendar/
 http://ain.ua/2015/07/09/590915
 
 http://ain.ua/2015/09/17/604201
+
+[JavaScript курсы от Kottans.org или почему бесплатные курсы все же работают](http://dou.ua/forums/topic/13249/)
