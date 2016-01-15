@@ -111,7 +111,7 @@ http://kottans.org/ (Киев)
 
 http://prog.kiev.ua/ (Киев)
 
-http://softserve.ua/university/it-academy/ (Киев)
+http://softserve.ua/university/it-academy/ (Киев, Черновцы, Ровно, Днепропетровск, Ивано-Франковск, Львов)
 
 http://globallogic.com.ua/careers/#gl-base-camp (Киев)
 
