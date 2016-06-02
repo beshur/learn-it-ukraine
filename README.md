@@ -65,7 +65,7 @@ http://www.learnpython.org/
 
 https://www.interviewbit.com/
 
-http://programming-motherfucker.com/become.html/
+http://programming-motherfucker.com/become.html
 
 ## Соревнования и игры
 http://www.codewars.com/
