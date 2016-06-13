@@ -25,6 +25,8 @@ __Начните!__
 
 ## Онлайн-обучалки и учебники
 
+[Что должен знать html-верстальщик?](http://krekotun.ru/ui-developer-skills)
+
 https://www.codecademy.com/
 
 https://www.khanacademy.org/computing/computer-programming
