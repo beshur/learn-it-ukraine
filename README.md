@@ -133,6 +133,8 @@ http://ain.ua/events
 http://dou.ua/calendar/
 
 ## Связанные статьи
+http://ain.ua/2016/09/30/673385
+
 http://ain.ua/2015/07/09/590915
 
 http://ain.ua/2015/09/17/604201
