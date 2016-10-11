@@ -69,6 +69,9 @@ https://www.interviewbit.com/
 
 http://programming-motherfucker.com/become.html
 
+## Другие списки
+[Google Interview University](https://github.com/jwasham/google-interview-university)
+
 ## Соревнования и игры
 http://www.codewars.com/
 
