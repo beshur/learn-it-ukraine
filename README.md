@@ -25,6 +25,8 @@ __Начните!__
 
 ## Онлайн-обучалки и учебники
 
+[Prometheus - украинские онлайн курсы](http://prometheus.org.ua/)
+
 [Что должен знать html-верстальщик?](http://krekotun.ru/ui-developer-skills)
 
 https://www.codecademy.com/
