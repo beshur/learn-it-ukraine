@@ -76,6 +76,8 @@ http://programming-motherfucker.com/become.html
 
 [Computer Science Video Courses](https://github.com/Developer-Y/cs-video-courses)
 
+[Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+
 ## Соревнования и игры
 http://www.codewars.com/
 
