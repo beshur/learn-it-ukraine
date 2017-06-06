@@ -18,8 +18,6 @@ __Начните!__
 
 [ДОУ: Топик для поиска менторов](http://dou.ua/forums/topic/10445/)
 
-[BrainBasket: Як стати айтішником?](http://www.open-it.org.ua/how-to-join-it/)
-
 [Агрегатор всего что может быть связано с разработкой](http://wwwhere.io/)
 
 
